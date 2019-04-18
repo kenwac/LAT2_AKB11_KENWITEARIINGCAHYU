@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Btnstyle2" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">bold</item>
+        <item name="android:background">@drawable/buttonstyle2</item>
+        <item name="android:textColor">@color/background1</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

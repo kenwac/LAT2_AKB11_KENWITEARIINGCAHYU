@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EdtRubikRegular" parent="Widget.AppCompat.EditText">
+        <item name="font">font/Rubik-Regular.ttf</item>
+    </style>
+
+    <style name="Edit" parent="EdtRubikRegular">
+        <item name="font">font/Nunito-Bold.ttf</item>
+        <item name="android:imeOptions">actionDone</item>
+        <item name="android:textColorHint">@color/background</item>
+        <item name="android:textColor">@color/background</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+</resources>
